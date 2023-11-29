@@ -2,7 +2,7 @@
 #### Python Fanboy
 Programming skills are incredibly important in today's world, even for graduates of the National University of Engineering, particularly in the School of Mines.
 
-Skills: Python / SQL /MINESIGHT
+Skills: Python / SQL /SOFTWARE MINING
 
 - 🔭 I’m currently working on Minning 
 - 🌱 I’m currently learning Python-SQL 
